@@ -19,7 +19,9 @@ namespace ImagePractice
             {
                 "Saurabh",
                 "Vaibhav",
-                "Shilpi"
+                "Shilpi",
+                "Chetan",
+                "Madhu"
             };
         }
     }
